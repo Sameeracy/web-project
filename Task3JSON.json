@@ -1,0 +1,95 @@
+"Institute":{
+	"Institute Of Management Sciences Peshawar":
+	{
+		"Established":"2002",
+		"Accreditation":"HEC Pakistan",
+		"City":"Peshawar",
+		"RankingWorld":"#10188",
+		"RankAsia":"4097",
+		"RankingPakistan":"#120",
+		"Schools":[
+			"School1":{
+				"SchoolName":"School Of Management Sciences",
+				"SchoolCode":"SMS",
+				"Dean":"Usman Ghani",
+				"Programs":[
+					"Pr1":{
+						"ProgramName":"BBA",
+						"ProgramLevel":"Undergrad"			
+					},
+					"Pr2":{
+						"ProgramName":"BsA&f",
+						"ProgramLevel":"Undergrad"	
+					},
+					"Pr3":{
+						"ProgramName":"MBA",
+						"ProgramLevel":"Grad"
+					},
+					"Pr4":{
+						"ProgramName":"Ms Management",
+						"ProgramLevel":"Grad"
+					},
+					"Pr5":{
+						"ProgramName":"PHD Management",
+						"ProgramLevel":"Doctoral"
+					},
+					"Pr6":{
+						"ProgramName":"MS Islamic Business and Finance",
+						"ProgramLevel":"Graduate"
+					},
+					"Pr7":{
+						"ProgramName":"PHD Islamic Business and Finance",
+						"ProgramLevel":"Doctoral"
+					}	
+				],
+				"Faculty":[
+					"Professor":
+					[
+						"ProfessorID":"F101",
+						"ProfName":"IftikharulAmin",
+						"Responisibility":"Coordinator Admission"
+					]	
+				]
+			},
+			"School2":{
+				"SchoolName":"School Of Computer Science and IT",
+				"SchoolCode":"SCS",
+				"Dean":"Ms.Ayesha Khattack",
+				"Programs":[
+					"Pr1":{
+						"ProgramName":"BS ComputerScience",
+						"ProgramLevel":"Undergrad"			
+					},
+					"Pr2":{
+						"ProgramName":"Bs Software Engineering",
+						"ProgramLevel":"Undergrad"	
+					},
+					"Pr3":{
+						"ProgramName":"BS Artificial Intelligence",
+						"ProgramLevel":"Under Grad"
+					},
+					"Pr4":{
+						"ProgramName":"Ms Computer Science",
+						"ProgramLevel":"Grad"
+					},
+					"Pr5":{
+						"ProgramName":"MS Datascience",
+						"ProgramLevel":"Grad"
+					},
+					"Pr6":{
+						"ProgramName":"PhD Computer Science",
+						"ProgramLevel":"Doctorial"
+					}
+					
+				],
+				"Labs":[
+					"Lab1":
+					[
+						"LabName":"Center for Excellence in IT (CEIT) focus Computer Science, IT"
+					]	
+				]
+			},
+			
+		]	
+	}	
+}
